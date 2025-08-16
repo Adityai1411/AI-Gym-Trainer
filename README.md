@@ -8,8 +8,7 @@ An **AI-powered desktop fitness assistant** built with **PyQt5** that helps user
 ## 📌 Features  
 - 🎥 **Real-time Pose Detection** – Detects human body landmarks from webcam feed.  
 - ✅ **Form Correction** – Provides instant feedback on whether an exercise is performed correctly.  
-- 🔢 **Repetition Counter** – Automatically counts push-ups, squats, curls, etc.  
-- 📊 **Progress Tracking** – Visualizes workout history with charts.  
+- 🔢 **Repetition Counter** – Automatically counts push-ups, squats, curls, etc.   
 - 🎨 **Interactive PyQt5 GUI** – User-friendly interface with a welcome screen & main dashboard.  
 
 ---
